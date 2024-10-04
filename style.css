@@ -41,6 +41,7 @@ main {
     border-radius: 50%;
     width: 500px;
     height: auto;
+    object-fit: cover;
 }
 
 form {
